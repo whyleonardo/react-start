@@ -11,5 +11,8 @@ export default defineConfig({
       '@hooks': resolve(__dirname, 'src', 'hooks'),
       '@theme': resolve(__dirname, 'src', 'theme')
     }
+  },
+  server: {
+    port: 3000
   }
 })
