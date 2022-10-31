@@ -8,34 +8,25 @@ Mocking up web app with <b>Vital</b><sup><em>(speed)</em></sup><br>
 
 <br>
 
-<p align='center'>
-<a href="https://vital.josepvidal.dev">Live Demo</a>
-</p>
-
-<br>
-
 ## Features
 
 - ⚡️ [React 18](https://beta.reactjs.org/)
 - 🦾 TypeScript, of course
 - 🫀 [Jest](https://jestjs.io/) - unitary testing made easy
-- 🎨 [Tailwind with JIT](https://tailwindcss.com/) - next generation utility-first CSS
-- 🪢 [CSS Modules](https://github.com/css-modules/css-modules)
-- 👑 [Atomic Design organization](https://bradfrost.com/blog/post/atomic-web-design/)
+- 🎨 [Chakra-UI](https://chakra-ui.com/) - simple, modular and accessible component library
 - 🗂 [Absolute imports](https://github.com/vitejs/vite/issues/88#issuecomment-762415200)
-- 😃 [Hero icons](https://heroicons.com/)
-- ☁️ Deploy on Netlify, zero-config
 
 ### Coding Style
 
 - [ESLint](https://eslint.org/) - configured for React/Hooks & TypeScript
 - [Prettier](https://prettier.io/)
+- [Husky](https://prettier.io/)
 
 ### Dev tools
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Commit lint](https://github.com/conventional-changelog/commitlint) - helps your team adhering to a commit convention
-- [Netlify](https://www.netlify.com/) - zero-config deployment
+- [Netlify](https://www.google.com/) - zero-config deployment
 
 ## Try it now!
 
@@ -50,7 +41,7 @@ If you prefer to do it manually with the cleaner git history
 ```bash
 npx degit jvidalv/vital my-vital-app
 cd my-vital-app
-yarn # If you don't have yarn installed, run: npm install -g yarn
+npm install
 ```
 
 ## Checklist
@@ -73,7 +64,7 @@ And, enjoy :)
 Just run and visit http://localhost:3000
 
 ```bash
-yarn start
+npm run dev
 ```
 
 ### Build
@@ -81,7 +72,7 @@ yarn start
 To build the App, run
 
 ```bash
-yarn build
+npm run build
 ```
 
 And you will see the generated file in `dist` that ready to be served.
