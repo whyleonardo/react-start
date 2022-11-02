@@ -1,8 +1,11 @@
-import { Text } from "@chakra-ui/react"
+import { Stack } from "@chakra-ui/react"
+import { ColorModeSwitch } from '@components/ColorModeSwitch'
 
 export const App = () => {
   return (
-    <Text color='brand.700'>Hello World</Text>
+    <Stack h='100vh' justifyContent='center' alignItems='center'>
+      <ColorModeSwitch />
+    </Stack>
   )
 }
 
