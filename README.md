@@ -20,13 +20,13 @@ Mocking up web app with <b>Vital</b><sup><em>(speed)</em></sup><br>
 
 - [ESLint](https://eslint.org/) - configured for React/Hooks & TypeScript
 - [Prettier](https://prettier.io/)
-- [Husky](https://prettier.io/)
 
 ### Dev tools
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Commit lint](https://github.com/conventional-changelog/commitlint) - helps your team adhering to a commit convention
-- [Netlify](https://www.google.com/) - zero-config deployment
+- [Commitizen](https://https://commitizen.github.io/cz-cli/)
+- [Husky](https://github.com/typicode/husky)
 
 ## Try it now!
 
