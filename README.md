@@ -7,7 +7,7 @@
 ## Features
 
 - ⚡️ [React 18](https://beta.reactjs.org/)
-- 🦾 TypeScript, of course
+- 🦾 TypeScript
 - 🫀 [Jest](https://jestjs.io/) - unitary testing made easy
 - 🎨 [Chakra-UI](https://chakra-ui.com/) - simple, modular and accessible component library
 - 🗂 [Absolute imports](https://github.com/vitejs/vite/issues/88#issuecomment-762415200)
@@ -42,22 +42,20 @@ npm install
 
 ## Checklist
 
-When you use this template, try follow the checklist to update your info properly
+When you use this template, try follow the checklist to update your info properly:
 
 - [ ] Rename `name` and `author` fields in `package.json`
 - [ ] Change the author name in `LICENSE`
 - [ ] Change the title in `index.html`
-- [ ] Change the favicon in `public`
-- [ ] Modify the manifest in `public`
 - [ ] Clean up the README's
 
-And, enjoy :)
+And, enjoy !
 
 ## Usage
 
 ### Development
 
-Just run and visit http://localhost:3000
+Just run and visit http://localhost:3000:
 
 ```bash
 npm run dev
@@ -65,7 +63,7 @@ npm run dev
 
 ### Build
 
-To build the App, run
+To build the App, run:
 
 ```bash
 npm run build
