@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://i.imgur.com/er0WdWB.png' alt='React Starter Template' width='600'/>
+  <img src='https://i.imgur.com/er0WdWB.png' alt='React Starter Template' width='900'/>
 </p>
 
 <p align='center'>
