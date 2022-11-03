@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://i.imgur.com/KVmyXyo.png' alt='Vital - Vite Starter Template' width='600'/>
+  <img src='https://imgur.com/a/MLu0nid' alt='React Starter Template' width='600'/>
 </p>
 
 <p align='center'>
