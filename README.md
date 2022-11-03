@@ -2,10 +2,6 @@
   <img src='https://i.imgur.com/er0WdWB.png' alt='React Starter Template' width='900'/>
 </p>
 
-<p align='center'>
-Mocking up web app with <b>Vital</b><sup><em>(speed)</em></sup><br>
-</p>
-
 <br>
 
 ## Features
@@ -32,14 +28,14 @@ Mocking up web app with <b>Vital</b><sup><em>(speed)</em></sup><br>
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/jvidalv/vital/generate).
+[Create a repo from this template on GitHub](https://github.com/whyleonardo/react-vite-start/generate).
 
 ### Clone to local
 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit jvidalv/vital my-vital-app
+npx degit whyleonardo/react-vite-start my-react-app
 cd my-vital-app
 npm install
 ```
@@ -76,12 +72,6 @@ npm run build
 ```
 
 And you will see the generated file in `dist` that ready to be served.
-
-### Deploy on Netlify
-
-Go to [Netlify](https://app.netlify.com/start) and select your repository, `OK` along the way, and your App will be live in a minute.
-
-### Issues
 
 #### Husky
 
