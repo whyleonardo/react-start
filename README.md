@@ -1,9 +1,5 @@
 <p align='center'>
-  <img src='https://i.imgur.com/KVmyXyo.png' alt='Vital - Vite Starter Template' width='600'/>
-</p>
-
-<p align='center'>
-Mocking up web app with <b>Vital</b><sup><em>(speed)</em></sup><br>
+  <img src='https://i.imgur.com/er0WdWB.png' alt='React Starter Template' width='900'/>
 </p>
 
 <br>
@@ -11,7 +7,7 @@ Mocking up web app with <b>Vital</b><sup><em>(speed)</em></sup><br>
 ## Features
 
 - ⚡️ [React 18](https://beta.reactjs.org/)
-- 🦾 TypeScript, of course
+- 🦾 TypeScript
 - 🫀 [Jest](https://jestjs.io/) - unitary testing made easy
 - 🎨 [Chakra-UI](https://chakra-ui.com/) - simple, modular and accessible component library
 - 🗂 [Absolute imports](https://github.com/vitejs/vite/issues/88#issuecomment-762415200)
@@ -32,36 +28,34 @@ Mocking up web app with <b>Vital</b><sup><em>(speed)</em></sup><br>
 
 ### GitHub Template
 
-[Create a repo from this template on GitHub](https://github.com/jvidalv/vital/generate).
+[Create a repo from this template on GitHub](https://github.com/whyleonardo/react-vite-start/generate).
 
 ### Clone to local
 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit jvidalv/vital my-vital-app
+npx degit whyleonardo/react-vite-start my-react-app
 cd my-vital-app
 npm install
 ```
 
 ## Checklist
 
-When you use this template, try follow the checklist to update your info properly
+When you use this template, try follow the checklist to update your info properly:
 
 - [ ] Rename `name` and `author` fields in `package.json`
 - [ ] Change the author name in `LICENSE`
 - [ ] Change the title in `index.html`
-- [ ] Change the favicon in `public`
-- [ ] Modify the manifest in `public`
 - [ ] Clean up the README's
 
-And, enjoy :)
+And, enjoy !
 
 ## Usage
 
 ### Development
 
-Just run and visit http://localhost:3000
+Just run and visit http://localhost:3000:
 
 ```bash
 npm run dev
@@ -69,19 +63,13 @@ npm run dev
 
 ### Build
 
-To build the App, run
+To build the App, run:
 
 ```bash
 npm run build
 ```
 
 And you will see the generated file in `dist` that ready to be served.
-
-### Deploy on Netlify
-
-Go to [Netlify](https://app.netlify.com/start) and select your repository, `OK` along the way, and your App will be live in a minute.
-
-### Issues
 
 #### Husky
 
