@@ -36,7 +36,7 @@ If you prefer to do it manually with the cleaner git history
 
 ```bash
 npx degit whyleonardo/react-vite-start my-react-app
-cd my-vital-app
+cd my-react-app
 npm install
 ```
 
